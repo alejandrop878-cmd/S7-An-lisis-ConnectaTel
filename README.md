@@ -35,7 +35,7 @@ El análisis se divide en tres fases críticas:
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alejandrop878-cmd/S7-analysis-ConnectaTel)
 
 O:
 
