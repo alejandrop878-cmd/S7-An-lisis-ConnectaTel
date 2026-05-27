@@ -30,3 +30,14 @@ El análisis se divide en tres fases críticas:
 *   **Pandas** (Limpieza, manipulación de estructuras de datos y detección de nulos/centinelas)
 *   **Matplotlib & Seaborn** (Visualización de distribuciones estadísticas e identificación visual de *outliers*)
 *   **Jupyter Notebooks** (Entorno de desarrollo e investigación)
+
+## ▶ Cómo abrir el notebook en Google Colab
+
+Haz clic en el siguiente botón:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+
+O:
+
+1. Abre el archivo `.ipynb` en GitHub
+2. Haz clic en **Open in Colab**
