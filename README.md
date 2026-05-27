@@ -4,7 +4,7 @@ Este repositorio contiene el análisis realizado durante el Sprint 7 del caso Co
 
 Este proyecto consiste en un análisis ejecutivo y exploratorio de datos (EDA) para **ConnectaTel**, una compañía de telecomunicaciones con operaciones en México y Colombia. El objetivo principal es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
-## Dataset del proyecto
+## 📂 Dataset del proyecto
 
 - **plans.csv:** los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
 - **users_latam.csv:** información de clientes: edad, ciudad, fecha de registro, plan contratado.
