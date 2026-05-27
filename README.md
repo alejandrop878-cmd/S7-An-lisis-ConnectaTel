@@ -37,7 +37,3 @@ Haz clic en el siguiente botón:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandrop878-cmd/S7-analysis-ConnectaTel/blob/main/TU_NOTEBOOK.ipynb)
 
-O:
-
-1. Abre el archivo `.ipynb` en GitHub
-2. Haz clic en **Open in Colab**
